@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![exp4i](https://github.com/yathin07/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139841679/fc358fab-650f-4f3f-9634-5f24409e6ca1)
 
 ### Output:
+![exp4](https://github.com/yathin07/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139841679/d7e88591-8c80-4077-befc-a8b64a3f0c5e)
 
 
-### Name:
-### Register Number:
+### Name: Yathin Reddy T
+### Register Number: 212223100062
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
